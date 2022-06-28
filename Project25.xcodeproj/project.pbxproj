@@ -294,7 +294,7 @@
 				DEVELOPMENT_TEAM = 53V48VAMPV;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Project25/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = SharePhoto;
+				INFOPLIST_KEY_CFBundleDisplayName = PhotoShare;
 				INFOPLIST_KEY_NSLocalNetworkUsageDescription = "Reason for using Bonjour that the user can understand";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
@@ -326,7 +326,7 @@
 				DEVELOPMENT_TEAM = 53V48VAMPV;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Project25/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = SharePhoto;
+				INFOPLIST_KEY_CFBundleDisplayName = PhotoShare;
 				INFOPLIST_KEY_NSLocalNetworkUsageDescription = "Reason for using Bonjour that the user can understand";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
